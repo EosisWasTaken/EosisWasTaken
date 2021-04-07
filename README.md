@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EosisWasTaken
 - 👀 I’m interested in computer science, programming, games (IRL and video games)
 - 🌱 I’m currently learning CS at school and with CS50
-- 📫 How to reach me? Send me a mail!
+- 📫 How to reach me? Friend me on discord: Eosis#6008
 
 <!---
 EosisWasTaken/EosisWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
