@@ -1,9 +1,8 @@
 <h2>👋 Hi, I’m Eosis !</h2> 
-<img align='left' src="https://forthebadge.com/images/badges/ages-18.svg" > 
 <img align='left' src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" >
 <img align='left' src="https://forthebadge.com/images/badges/powered-by-oxygen.svg" >
 <img align='left' src="https://forthebadge.com/images/badges/uses-badges.svg" >
-<img align='left' src="https://forthebadge.com/images/badges/open-source.svg" width="14.53%" height="14.53%"> <!-- evil genius hack -->
+<img align='left' src="https://forthebadge.com/images/badges/open-source.svg" >
 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
