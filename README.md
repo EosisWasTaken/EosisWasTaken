@@ -5,7 +5,7 @@
 <img align='left' src="https://forthebadge.com/images/badges/uses-badges.svg" >
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
-
+<br>
 ---
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
