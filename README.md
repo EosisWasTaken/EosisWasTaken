@@ -3,3 +3,9 @@
 - This GitHub is the only place where I'll post everything about programming, since I don't have a website, or other programming related social medias. 
 
 ![Eosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eosiswastaken&show_icons=true&count_private=true&theme=codeSTACKr)
+
+![GitHub metrics](https://metrics.lecoq.io/eosiswastaken)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eosiswastaken)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
