@@ -10,24 +10,21 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-```python
-class Eosis:
-a
-a
-a
-a
-a
-a
-I'm a teenager from France learning to code. In the future, I'd like to work in the IT industry, but I ddon't really know where, or what specific job tho. For now I'm learning Python and I'm having fun building little projects, and I'll soon learn JavaScript ! 
-I enjoy making discord bots, little games, and proofs of concept, looots of them.
-This GitHub is the only place where I'll post everything about programming, since I don't have a website, or other programming related social medias. 
-a
-a
-a
-a
-a
-
-
+```javascript
+const eosis = {
+    pronouns: "He" | "Him",
+    code: ["Python"],
+    askMeAbout: ["web dev", "coding", "tech", "gaming"],
+    learns: ["Git","Web dev"]
+    technologies: {
+      frontEnd: [],
+      backEnd: [],
+      database: ["SQLite"],
+      misc: ["nextcord", "pycord", "PIL", "asyncio"]
+      },
+    funFact: "Most software engineers are self-taught !"
+    }
+};
 ```
 
 
