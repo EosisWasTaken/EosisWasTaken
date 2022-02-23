@@ -12,6 +12,13 @@ I'm a teenager from France learning to code. In the future, I'd like to work in 
 
 ```python
 class Eosis:
+a
+a
+a
+a
+a
+a
+
 
 ```
 
