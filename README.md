@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m [@EosisWasTaken](http://eosiswastaken.github.io) !</h2> 
+<h2>👋 Hi, I’m Eosis !</h2> 
  
 I'm a teenager from France learning to code. In the future, I'd like to work in the IT industry, but I ddon't really know where, or what specific job tho. For now I'm learning Python and I'm having fun building little projects, and I'll soon learn JavaScript ! 
 - I enjoy making discord bots, little games, and proofs of concept, looots of them.
