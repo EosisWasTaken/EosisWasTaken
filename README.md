@@ -9,7 +9,8 @@ I'm a teenager from France learning to code. In the future, I'd like to work in 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact'>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ```python
 class Eosis:
@@ -18,5 +19,4 @@ class Eosis:
 
 ![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ---
