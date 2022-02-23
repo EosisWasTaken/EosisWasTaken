@@ -15,7 +15,7 @@ const eosis = {
     pronouns: "He" | "Him",
     code: ["Python"],
     askMeAbout: ["web dev", "coding", "tech", "gaming"],
-    learns: ["Git","Web dev"]
+    learns: ["Git","Web dev"],
     technologies: {
       frontEnd: [],
       backEnd: [],
