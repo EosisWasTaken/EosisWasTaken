@@ -6,10 +6,10 @@ I'm a teenager from France learning to code. In the future, I'd like to work in 
 
 
 ![Eosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eosiswastaken&show_icons=true&count_private=true&theme=codeSTACKr)
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact'>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact'>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ```python
