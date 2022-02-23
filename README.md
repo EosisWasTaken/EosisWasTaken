@@ -6,6 +6,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
