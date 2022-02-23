@@ -29,7 +29,7 @@ const eosis = {
 
 
 ![Eosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eosiswastaken&show_icons=true&count_private=true&theme=codeSTACKr)
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact' width="38%" height="38%">
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact' width="37%" height="37%">
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=EosisWasTaken&style=flat-square&label=Views&color=yellow) | With ❤️ by ![Eosis](https://github.com/EosisWasTaken)
 
