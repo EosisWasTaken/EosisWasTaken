@@ -6,6 +6,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eosiswastaken)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
