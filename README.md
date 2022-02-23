@@ -2,4 +2,4 @@
 - I enjoy making discord bots, little games, and proofs of concept, looots of them.
 - This GitHub is the only place where I'll post everything about programming, since I don't have a website, or other programming related social medias. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=codeSTACKr)
+![Eosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=eosiswastaken&show_icons=true&count_private=true&theme=codeSTACKr)
