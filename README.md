@@ -14,7 +14,7 @@ I'm a teenager from France learning to code. In the future, I'd like to work in 
 class Eosis:
 
 ```
+![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ---
-![Profile views](https://gpvc.arturio.dev/eosiswastaken)  
