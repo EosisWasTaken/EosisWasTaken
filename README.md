@@ -8,7 +8,7 @@ I'm a teenager from France learning to code. In the future, I'd like to work in 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EosisWasTaken&langs_count=10&theme=codeSTACKr&layout=compact)-->
 
 ```python
 class Eosis:
