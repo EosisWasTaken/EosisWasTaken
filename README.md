@@ -3,7 +3,7 @@
 <img align='left' src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" >
 <img align='left' src="https://forthebadge.com/images/badges/powered-by-oxygen.svg" >
 <img align='left' src="https://forthebadge.com/images/badges/uses-badges.svg" >
-<img align='left' src="https://forthebadge.com/images/badges/open-source.svg" width="10px">
+<img align='left' src="https://forthebadge.com/images/badges/open-source.svg" width="95%" height="95%">
 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/eosiswastaken) -->  
