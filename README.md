@@ -10,7 +10,7 @@
 
 I'm a French junior developer, on my way to learn lots of things !
 
-More about me on my site, right <a href="https://www.eosis.codes/">here</a>.
+More about me on my site, right <a href="https://www.eosis.codes/">here</a>. Below are the 2 projects I'm working on right now
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eosiswastaken&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
