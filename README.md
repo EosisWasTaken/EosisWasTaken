@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m <a href="https://eosiswastaken.github.io/">Eosis !</a></h2> 
 <img align='left' src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" >
 <img align='left' src="https://forthebadge.com/images/badges/open-source.svg" >
-<a href="https://wakatime.com/@Eosis" target="_blank"><img align='left' src="https://wakatime.com/badge/user/00733729-69fe-400b-ade6-fa3662321ebc.svg?style=for-the-badge" width="25%" height="25%"></a>
+<a href="https://wakatime.com/@Eosis" target="_blank"><img align='left' src="https://wakatime.com/badge/user/00733729-69fe-400b-ade6-fa3662321ebc.svg?style=for-the-badge"></a>
 
 
 <br>
