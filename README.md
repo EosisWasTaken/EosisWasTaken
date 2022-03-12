@@ -4,8 +4,8 @@
 [![Awesome Badges](https://wakatime.com/badge/user/00733729-69fe-400b-ade6-fa3662321ebc.svg?)](https://wakatime.com/@Eosis)
 ![Awesome Badges](https://img.shields.io/badge/status-student-blueviolet)
 ![Awesome Badges](https://img.shields.io/badge/procrastinates-toomuch-orange)
-[![Uses](https://img.shields.io/badge/Setup-uses-blue?logo=when-i-work&logoColor=white)](https://eosis.codes/uses)
-[![Dotfiles](https://img.shields.io/badge/Setup-dotfiles-blue?logo=when-i-work&logoColor=white)](https://github.com/eosiswastaken/dotfiles)
+[![Uses](https://img.shields.io/badge/uses-blue?logo=when-i-work&logoColor=white)](https://eosis.codes/uses)
+[![Dotfiles](https://img.shields.io/badge/dotfiles-blue?logo=when-i-work&logoColor=white)](https://github.com/eosiswastaken/dotfiles)
 [![PGP](https://img.shields.io/badge/-PGP-blue?logo=keybase&logoColor=white)](https://github.com/EosisWasTaken/EosisWasTaken/blob/main/Eosis_PGP_PUBLIC.asc)
 ![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)
 
