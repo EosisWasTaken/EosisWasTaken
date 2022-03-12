@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Digital%20Ocean-123F6D?style=flat-square&logo=digitalocean&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-E10098?style=flat-square&logo=raspberrypi&logoColor=white"/>
   
   </p>
   
