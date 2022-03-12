@@ -6,7 +6,7 @@
 ![Awesome Badges](https://img.shields.io/badge/procrastinates-toomuch-orange)
 [![Uses](https://img.shields.io/badge/Setup-uses-blue?logo=when-i-work&logoColor=white)](https://eosis.codes/uses)
 [![Dotfiles](https://img.shields.io/badge/Setup-dotfiles-blue?logo=when-i-work&logoColor=white)](https://github.com/eosiswastaken/dotfiles)
-[![PGP](https://img.shields.io/badge/-PGP-blue?logo=keybase&logoColor=white)]()
+[![PGP](https://img.shields.io/badge/-PGP-blue?logo=keybase&logoColor=white)](https://github.com/EosisWasTaken/EosisWasTaken/blob/main/Eosis_PGP_PUBLIC.asc)
 ![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)
 
 
